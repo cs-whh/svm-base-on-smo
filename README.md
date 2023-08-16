@@ -1,4 +1,4 @@
-# SVM(base on Sequential Minimal Optimization algorithm)
+# SVM(base on Sequential Minimal Optimization algorithm) MATLAB Code
 + smo.m 
 
 smo算法的主程序,输入训练数据和标签，返回对偶问题的拉格朗日乘子$ \alpha $.
